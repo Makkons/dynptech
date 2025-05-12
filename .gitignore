@@ -1,8 +1,12 @@
+!dist/**
+!*.md
+!.gitignore
+
+/config
 /src
 /node_modules
 /.idea
 vite.config.ts
 package.json
 package-lock.json
-
 **/.DS_Store
